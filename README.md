@@ -1,4 +1,4 @@
-# botcle310_development
+# botcle310_demo
 
 #BLE_neuro_demo2.py -> demo version.   so not complete
 
