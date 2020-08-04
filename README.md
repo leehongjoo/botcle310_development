@@ -1,4 +1,7 @@
 # botcle310_development
+
+#BLE_neuro_demo2.py -> demo version.   so not complete
+
 BoT-CLE310 module, python version
 
 this need many python library
@@ -25,3 +28,10 @@ my library list
 
 
 https://github.com/leehongjoo/botcle310_development/issues/1#issue-672451020
+
+
+point of attention!!!!!!!!!!!!!!
+
+pyqtgraph, pyside2, collision problem
+pyinstaller collision problem   ( so many...)
+bleak problem (more than 0.7.1) 
